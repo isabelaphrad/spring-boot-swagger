@@ -1,7 +1,7 @@
-# Curso Alura Parte 2: Segurança da API, Cache e Monitoramento
-### Para o desenvolvimento deste projeto foi abordado:
+## Curso Alura Parte 2: Segurança da API, Cache e Monitoramento
+#### Para o desenvolvimento deste projeto foi abordado:
 
-<h5>1.</h5> Banco de dados relacional - PostgreSQL
+1. Banco de dados relacional - PostgreSQL
 
 2. Paginação e ordenação de recursos
 
