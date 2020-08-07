@@ -1,18 +1,18 @@
-## Curso Alura Parte 2: Segurança da API, Cache e Monitoramento
-#### Para o desenvolvimento deste projeto foi abordado:
+## Alura Course Part 2: API Security, Cache and Monitoring
+#### For the development of this project it was addressed:
 
-1. Banco de dados relacional - PostgreSQL
+1. Relational database - PostgreSQL
 
-2. Paginação e ordenação de recursos
+2. Pagination and ordering of resources
 
-3. Spring Cache para melhorar o desempenho
+3. Spring Cache to improve performance
 
-4. Proteção com Spring Security
+4. Protection with Spring Security
 
-5. Token e Autenticação - JWT
+5. Token and Authentication - JWT
 
-6. Monitoramento - Spring Boot Actuator
+6. Monitoring - Spring Boot Actuator
 
-7. Documentação da API - Swagger e Springfox
+7. API documentation - Swagger and Springfox
 
-Para acessar o swagger é preciso rodar a aplicação: http://localhost:8080/swagger-ui.html
+To access the swagger you need to run the application: http://localhost:8080/swagger-ui.html
